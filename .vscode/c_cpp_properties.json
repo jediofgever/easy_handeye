@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/atas/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/atas/catkin_ws/src/aruco_ros/aruco/include/**",
+                "/home/atas/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+                "/home/atas/catkin_ws/src/PICK_PLACE_with_ROS_on_FANUC_ARM/fanuc_arm_perception_utilities/include/**",
+                "/home/atas/catkin_ws/src/PICK_PLACE_with_ROS_on_FANUC_ARM/fanuc_driver/include/**",
+                "/home/atas/catkin_ws/src/PICK_PLACE_with_ROS_on_FANUC_ARM/fanuc_user_interface_rqt_plugin/include/**",
+                "/home/atas/catkin_ws/src/pylon_camera/include/**",
+                "/home/atas/catkin_ws/src/PICK_PLACE_with_ROS_on_STAUBLI_ARM/staubli_arm_perception_utilities/include/**",
+                "/home/atas/catkin_ws/src/PICK_PLACE_with_ROS_on_STAUBLI_ARM/staubli_user_interface_rqt_plugin/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
